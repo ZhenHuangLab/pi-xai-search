@@ -1,3 +1,5 @@
+> Development and releases have moved to [pi-extensions/packages/pi-xai-search](https://github.com/ZhenHuangLab/pi-extensions/tree/main/packages/pi-xai-search). Please use the new repository for changes and issues.
+
 <h1 align="center"><code>pi-xai-search</code></h1>
 
 <p align="center"><strong>Live X search for Pi</strong></p>
